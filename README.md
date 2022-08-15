@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/reza_tal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reza_tal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/reza-esfahani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reza-esfahani/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/reza-esfahani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reza-esfahani/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17710362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17710362" height="30" width="40" /></a>
 <a href="https://instagram.com/reza_lens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reza_lens" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/reza-te" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reza-te" height="30" width="40" /></a>
