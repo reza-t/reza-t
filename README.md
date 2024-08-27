@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reza-t" alt="reza-t" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and PostgreSQL**
+- 🌱 I’m currently learning **Kotlin and Spring Boot**
 
 - 💬 Ask me about **Golang/C#/Javascript/Typescript or Vue,Express**
 
